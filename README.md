@@ -4,4 +4,4 @@
 - Incluye un modo claro y oscuro.
 - Desarrollado primero con la metodología Mobile First, luego para escritorio.
 - Compatible con todos los dispositivos móviles y con una bonita y agradable interfaz de usuario.
-![preview img](preview-movil.png){width=50% }
+![preview img](preview-movil.png)
